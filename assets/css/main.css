@@ -3510,3 +3510,16 @@ input, select, textarea {
 			}
 
 	}
+
+.tasnim{
+
+	background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+	color: rgba(255, 255, 255, 0.75);
+	text-align: center;
+
+}
+
+.flip{
+
+	transform: scaleY(-1);
+}
